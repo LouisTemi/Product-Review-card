@@ -37,7 +37,7 @@ body{
     display: flex;
     gap: 1rem;
     align-items: center;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 button{
     background-color: hsl(158, 36%, 37%);
