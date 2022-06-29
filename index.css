@@ -55,6 +55,9 @@ button{
 button:hover{
     background-color: hsl(212, 21%, 14%);
 }
+.right-side{
+    margin-top: 1rem;
+}
 
 @media (min-width:380px){
     .container{
